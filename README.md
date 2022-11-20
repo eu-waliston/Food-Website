@@ -21,5 +21,5 @@ Image Souce: https://www.pexels.com
 https://user-images.githubusercontent.com/82295321/142716023-78a92871-aca9-4782-a565-9f17b9aca2b3.mp4
 
 
-<p> would like to try  ? here the link: https://bkt-tonton.github.io/Food-Website/ </p>
+<p> would like to try  ? here the link: https://wal-wizard.github.io/Food-Website/ </p>
 
