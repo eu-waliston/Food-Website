@@ -1,5 +1,5 @@
 # Food-Website
-What's up, beautiful people.  this is an food website using Express, Ejs, Css & JS.
+What's up, beautiful people.  this is an food website using Express, Ejs, Css & JS
 
 
 https://user-images.githubusercontent.com/82295321/142716039-5ef5d8d4-b9b7-467b-9567-cdfa2292476f.mp4
